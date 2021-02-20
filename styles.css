@@ -1,0 +1,16 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  font-size: 4rem;
+  color: darkblue;
+  text-align: center;
+  transition: 1s;
+}
+
+h1:hover {
+  background-color: darkmagenta;
+  color: aliceblue;
+  cursor: pointer;
+}
